@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518752391563",
+    "project_id": "dlabellamodas-58d34",
+    "storage_bucket": "dlabellamodas-58d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518752391563:android:953014c745fd6be3309f8e",
+        "android_client_info": {
+          "package_name": "br.com.codogno.dlabellamodas.dlabella_modas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518752391563-9r4bn67lqs429vqc1bcg7helcm3a4hft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9g6JNNeXzEa29dITXrFQUdp7WpnK85jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518752391563-9r4bn67lqs429vqc1bcg7helcm3a4hft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
